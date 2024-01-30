@@ -1,0 +1,144 @@
+.slid {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;   
+
+}
+.ght{
+    background-color:#95d5b2;
+
+    
+    
+    }
+.vast{
+    padding-top: 10px;
+    background-color:#1b9774 ;
+    border-radius: 5px;
+    margin: 10px;
+}
+.bit{
+    border-radius: 5px;
+    margin: 5px;
+}
+
+
+
+.initial{
+    padding: 10px 70px;
+    border-radius: 5px
+}
+.swift{
+    color: rgb(88, 133, 92);
+    padding: 80px;
+    text-align: justify;
+    background-color: #cfe1b9;
+    margin: 100px;
+    color: black;
+
+    }
+    .kiy{
+        color: #3c855f;
+        
+    }
+    .point{
+        background-color: #cfe1b9;
+        padding: 60px 10px;
+        margin: 100px;
+    }
+    .quin{
+        padding: 5px;
+        margin: 5px;
+        
+    }
+    
+
+
+.grit{
+    border: none;
+    width: 200px;
+    height: 30px;
+     background-color: #95d5b2;
+     border-color: #80ffdb;
+    
+}
+.rest{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+    color: #10532c;
+    
+    
+}
+.jit{
+    justify-content:center ;
+    text-align: center;
+    gap: 40px;
+}
+.sit{
+    text-align: center;
+    color: #3c855c;
+    
+}
+.hit{
+    
+    color: #3c855c;
+}
+.fit{
+    display: flex;
+    flex-direction: row;
+    padding: 80px;
+    margin: 100px;
+    background-color: #cfe1b9;
+    text-align: center;
+}
+.input_sect{
+    
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    background-color:#cfe1b9;
+
+    
+    
+}
+.final{
+    display: flex;
+    
+    background-color: #1b9774;
+    color: #07374f;
+    gap: 30px;
+    margin: auto;
+    
+    
+    }
+ .last{
+        border:#80ffdb solid ;
+         width: 300px;
+         justify-content: center;
+         
+    }
+ .shur{
+    display: flex;
+    gap: 20px;
+ }
+ .fit{
+    
+    
+
+
+
+ }
+ 
+
+
+
+    
+ 
+ 
+ 
+ 
+
+
+
+
